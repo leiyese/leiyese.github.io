@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "My AI Developer Portfolio"
+author: "Lei Ye"
+description: "A showcase of my AI & ML projects, blogs, and research."
+theme: jekyll-theme-cayman
+show_downloads: true
+plugins:
+  - jekyll-seo-tag
